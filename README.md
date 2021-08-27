@@ -1,4 +1,4 @@
-### Olá, sou a Andréia Cristina 👋
+### Olá, sou a Andréia Cristina
 
 - 🔭 Hoja trabalho com front-end e back-end
 - 🌱 Estudando Desenvolvimento FullStack
