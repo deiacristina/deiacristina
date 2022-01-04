@@ -1,4 +1,4 @@
-### Olá, sou a Andréia Cristina, desenvolvedora de software e criadora de conteúdo sobre programação e tecnologia :)
+### Olá, sou a Andréia Cristina, desenvolvedora e criadora de conteúdo sobre programação e tecnologia :)
 
 
  <div align="center">
