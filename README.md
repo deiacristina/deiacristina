@@ -1,8 +1,5 @@
-### Olá, sou a Andréia Cristina
+### Olá, sou a Andréia Cristina, desenvolvedora de software e criadora de conteúdo sobre programação e tecnologia :)
 
-- 🔭 Hoja trabalho com front-end e back-end
-- 🌱 Estudando Desenvolvimento FullStack
-- 😄 Pronouns: ela/dela
 
  <div>
   <a href="https://github.com/deiacristina">
