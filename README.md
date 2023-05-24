@@ -1,4 +1,4 @@
-### Olá, sou a Andréia Cristina, desenvolvedora e criadora de conteúdo sobre programação e tecnologia :)
+### Olá, sou a Deia, desenvolvedora de software, designer e criadora de conteúdo tech em @codedeia :)
 
 
  <div align="center">
