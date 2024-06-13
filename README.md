@@ -1,4 +1,4 @@
-### Olá, sou a Deia, desenvolvedora de software, designer e criadora de conteúdo tech em @codedeia :)
+### Olá, sou a Deia, desenvolvedora de software e criadora de conteúdo tech em @codedeia :)
 
 
  <div align="center">
